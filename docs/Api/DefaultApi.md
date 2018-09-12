@@ -7,7 +7,7 @@ Method | HTTP request | Description
 [**createClient**](DefaultApi.md#createClient) | **POST** /v1/clients | 
 [**getClientById**](DefaultApi.md#getClientById) | **GET** /v1/clients/{id} | 
 [**getClientByLegacyId**](DefaultApi.md#getClientByLegacyId) | **GET** /v1/clients/legacy/{legacyID} | 
-[**updateClientById**](DefaultApi.md#updateClientById) | **PUT** /v1/clients/legacy/{legacyID} | 
+[**updateClientById**](DefaultApi.md#updateClientById) | **PUT** /v1/clients/{id} | 
 
 
 # **createClient**
